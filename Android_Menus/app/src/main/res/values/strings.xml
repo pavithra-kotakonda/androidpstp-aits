@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Menus</string>
+    <string-array name="hero-names">
+        <item>qwe</item>
+        <item>asd</item>
+        <item>zxc</item>
+        <item>qaz</item>
+    </string-array>
+</resources>
