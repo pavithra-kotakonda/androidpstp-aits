@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string-array name="titles">
+        <item>Anu</item>
+        <item>Bhanu</item>
+        <item>pavi</item>
+        <item>sai</item>
+        <item>siva</item>
+    </string-array>
+    <string-array name="subtitles">
+        <item>madanapalli</item>
+        <item>piler</item>
+        <item>chittoor</item>
+        <item>kodur</item>
+        <item>tpt</item>
+    </string-array>
+</resources>
